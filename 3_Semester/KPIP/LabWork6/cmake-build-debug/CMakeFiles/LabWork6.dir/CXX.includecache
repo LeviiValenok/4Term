@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/University/KPIP/LabWork6/main.cpp
+iostream
+-
+cstdlib
+-
+stdbool.h
+-
+cstring
+-
+

@@ -1,0 +1,3 @@
+C:/University/KPIP/labwork4/cmake-build-debug/CMakeFiles/labwork4.dir
+C:/University/KPIP/labwork4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/University/KPIP/labwork4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

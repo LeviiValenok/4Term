@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/University/KPIP/labWork9/Dish.cpp
+Dish.h
+C:/University/KPIP/labWork9/Dish.h
+functions.h
+C:/University/KPIP/labWork9/functions.h
+stdbool.h
+-
+cstring
+-
+
+C:/University/KPIP/labWork9/Dish.h
+iostream
+-
+fstream
+C:/University/KPIP/labWork9/fstream
+
+C:/University/KPIP/labWork9/functions.h
+
